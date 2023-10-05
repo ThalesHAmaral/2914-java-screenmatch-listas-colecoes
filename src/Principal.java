@@ -52,5 +52,6 @@ public class Principal {
         filtro.filtra(episodio);
 
         System.out.println(episodio);
+        System.out.println(episodio);
     }
 }
